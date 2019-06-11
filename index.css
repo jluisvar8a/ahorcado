@@ -1,0 +1,31 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+  padding-right: 5px;
+}
+
+select {
+  margin-right: 20px;
+}
+
+#palabra {
+  font-size: 30px;
+  display: inline-block;
+}
+
+#img {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#juego {
+  display: none;
+}
